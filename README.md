@@ -37,11 +37,11 @@ Este projeto contém testes automatizados E2E (End-to-End) para Frontend e Backe
 
 1.  Clone o repositório:
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone https://github.com/hmarcossi/Cypress-FrontEnd-BackEnd
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd cypress-frontend-backend
+    cd Cypress-FrontEnd-BackEnd
     ```
 3.  Instale as dependências:
     ```bash
